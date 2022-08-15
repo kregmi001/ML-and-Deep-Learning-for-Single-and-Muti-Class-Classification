@@ -1,4 +1,4 @@
-# Project: Machine and Deep Learning for Natural Language Processing (NLP)
+
 ### Dataset: TMDB 5000 Movie Dataset
 ### Project takes on three main tasks listed below:
 - Movie recommender using TF-IDF Vectorization and Cosine similarity
