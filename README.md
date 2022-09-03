@@ -1,4 +1,4 @@
 
-### Multi Class Text Classification 
+### Multi Label Text Classification 
 
 
