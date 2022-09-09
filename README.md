@@ -1,4 +1,4 @@
 
-### Multi Label Text Classification 
+### Multi Label Text Classification using pretrained embeddings and BERT
 
 
